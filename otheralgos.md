@@ -1,3 +1,5 @@
+https://www.linkedin.com/pulse/list-algorithms-computer-programming-pranam-bhat/
+ 
  Searching: 
 
 1) Binary Search 
